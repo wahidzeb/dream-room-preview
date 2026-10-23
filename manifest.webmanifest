@@ -1,0 +1,42 @@
+{
+  "id": "/dream-room-preview/",
+  "name": "Dream Room (preview)",
+  "short_name": "Dream Room",
+  "description": "Dream Room by Zaib: design gorgeous rooms for fun clients! Pick furniture, colours, rugs, lights and walls, match each client's style, palette and budget, then see the before and after reveal. 32 levels, multi-room homes and hundreds of decor pieces.",
+  "lang": "en",
+  "start_url": "/dream-room-preview/?source=pwa",
+  "scope": "/dream-room-preview/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ff7a59",
+  "background_color": "#ff7a59",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/dream-room-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dream-room-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dream-room-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/dream-room-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
